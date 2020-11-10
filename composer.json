@@ -1,5 +1,5 @@
   {
-    "name": "sandeep/criptophp",
+    "name": "dzonesirsa/criptophp",
     "repositories": [
       {
         "type": "vcs",
@@ -7,6 +7,6 @@
       }
     ],
     "require": {
-      "sandeep/criptophp": "dev-master"
+      "dzonesirsa/criptophp": "dev-master"
     }
   }

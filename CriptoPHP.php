@@ -1,5 +1,5 @@
 <?php
-namespace sandeep\CriptoPHP;
+namespace dzonesirsa\CriptoPHP;
 class CriptoPHP{
 	private $extension = ".cphp";
 	private $key = "example$%&123"; //YOUR PRIVATE KEY
