@@ -1,0 +1,12 @@
+  {
+    "name": "sandeep/criptophp",
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/dzonesirsa/cripto"
+      }
+    ],
+    "require": {
+      "sandeep/criptophp": "dev-master"
+    }
+  }
