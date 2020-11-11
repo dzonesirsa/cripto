@@ -1,12 +1,15 @@
   {
-    "name": "dzonesirsa/securephp",
-    "repositories": [
+    "name": "dzone/encryptphp",
+    "type": "library",
+    "description": "encryptphp",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://developerszone.in",
+    "license": "MIT",
+    "authors": [
       {
-        "type": "vcs",
-        "url": "https://github.com/dzonesirsa/cripto"
+        "name": "Sandeep",
+        "role": "Developer"
       }
-    ],
-    "require": {
-      "dzonesirsa/securephp": "dzone-cripto"
-    }
+    ]
   }
+

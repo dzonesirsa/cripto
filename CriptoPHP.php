@@ -1,5 +1,5 @@
 <?php
-namespace dzonesirsa\securephp;
+namespace dzone\encryptphp;
 class CriptoPHP{
     //composer require dzonesirsa/criptophp
 	private $extension = ".cphp";
