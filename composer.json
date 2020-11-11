@@ -1,5 +1,5 @@
   {
-    "name": "dzonesirsa/criptophp",
+    "name": "dzonesirsa/securephp",
     "repositories": [
       {
         "type": "vcs",
@@ -7,6 +7,6 @@
       }
     ],
     "require": {
-      "dzonesirsa/criptophp": "dev-master"
+      "dzonesirsa/securephp": "dzone-cripto"
     }
   }

@@ -1,6 +1,7 @@
 <?php
-namespace dzonesirsa\CriptoPHP;
+namespace dzonesirsa\securephp;
 class CriptoPHP{
+    //composer require dzonesirsa/criptophp
 	private $extension = ".cphp";
 	private $key = "example$%&123"; //YOUR PRIVATE KEY
 	
